@@ -1,0 +1,4 @@
+crewai
+crewai[litellm]
+python-dotenv
+crewai[google-genai]
